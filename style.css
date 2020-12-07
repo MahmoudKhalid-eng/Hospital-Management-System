@@ -1,0 +1,67 @@
+h1{
+    position: relative;
+    background-color: #5EAEEB;
+    height: 100px;
+    text-align: center;
+    color: #ffffff;
+    left: 0px;
+    top: 0px;
+    margin: 0px;
+    padding-top: 75px;
+    padding-bottom: 50px;
+}
+div{
+    height: 110px;
+    background-color: #99C2EB;
+    margin: 0;
+    
+}
+button{
+    width: 250px;
+    height: 100px;
+    background-color: #56739E;
+    font-size: 30px;
+    color: aliceblue;
+    padding-top: 3px;
+    margin: 4px;
+    border-radius: 20px 20px;    
+}
+.tab:hover{
+    width: 250px;
+    height: 150px;
+}
+
+a{
+    text-decoration: none;
+}
+form{
+    padding-top: 100px;
+}
+
+input{
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px 10px 10px;
+}
+.reg{
+    padding-top: 10px;
+}
+.reg_head{
+    height: 75px;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.booking{
+    font-size: 40px;
+    background-color: #ffffff;
+}
+select{
+    width: 150px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 5px;
+}
